@@ -1,0 +1,1420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lovey Dovey\n"
+"POT-Creation-Date: 2014-10-13 18:57+0700\n"
+"PO-Revision-Date: 2014-10-13 18:57+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "Ooops, Page Not Found"
+msgstr ""
+
+#: ../404.php:8
+msgid ""
+"Sorry the page you're looking for could not be found. Try using the search "
+"box below."
+msgstr ""
+
+#: ../admin/data-sources.php:17
+#, php-format
+msgid "Standard : %s"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:6
+msgid "Event Options"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:12
+msgid "Event Date"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:20
+msgid "Time"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:25
+msgid "Venue"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:30
+msgid "Address"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:35
+msgid "Google Map Latitude / Longitude"
+msgstr ""
+
+#: ../admin/metabox/metabox_event_options.php:36
+msgid "Comma separated, e.g. \"-7.9812985, 112.6319264\""
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:6
+msgid "Page Options"
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:12
+msgid "Page Title Section"
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:13
+msgid ""
+"If you set this page as \"Posts Page\" in your Reading Settings, this option "
+"will be overrided by Default Settings in Theme Options"
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:16
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:20
+msgid "Disabled"
+msgstr ""
+
+#: ../admin/metabox/metabox_page_options.php:24
+msgid "Enabled"
+msgstr ""
+
+#: ../admin/option/option.php:21
+msgid "Font Face"
+msgstr ""
+
+#: ../admin/option/option.php:63
+msgid "Lovey+Dovey Options"
+msgstr ""
+
+#: ../admin/option/option.php:67
+msgid "Global Setting"
+msgstr ""
+
+#: ../admin/option/option.php:74
+msgid "Page Preloader"
+msgstr ""
+
+#: ../admin/option/option.php:80
+msgid "Header Date Format"
+msgstr ""
+
+#: ../admin/option/option.php:86
+msgid "Site Logo"
+msgstr ""
+
+#: ../admin/option/option.php:91
+msgid "Header Logo Image"
+msgstr ""
+
+#: ../admin/option/option.php:96
+msgid "Footer Logo Image"
+msgstr ""
+
+#: ../admin/option/option.php:101
+msgid "Header Logo Image (Retina Version)"
+msgstr ""
+
+#: ../admin/option/option.php:102 ../admin/option/option.php:108
+msgid ""
+"Please name your file following the normal version (e.g. logo.png) with a "
+"suffix @2x (e.g. logo@2x.png)"
+msgstr ""
+
+#: ../admin/option/option.php:107
+msgid "Footer Logo Image (Retina Version)"
+msgstr ""
+
+#: ../admin/option/option.php:114
+msgid "Site Favicon"
+msgstr ""
+
+#: ../admin/option/option.php:119
+msgid "Recommended: .ICO 64x64px size"
+msgstr ""
+
+#: ../admin/option/option.php:120
+msgid "General Site Icon"
+msgstr ""
+
+#: ../admin/option/option.php:125
+msgid "Recommended: .PNG 60x60px size"
+msgstr ""
+
+#: ../admin/option/option.php:126
+msgid "Icon for iPhone"
+msgstr ""
+
+#: ../admin/option/option.php:131
+msgid "Recommended: .PNG 120x120px size"
+msgstr ""
+
+#: ../admin/option/option.php:132
+msgid "Icon for iPhone Retina"
+msgstr ""
+
+#: ../admin/option/option.php:137
+msgid "Recommended: .PNG 76x76px size"
+msgstr ""
+
+#: ../admin/option/option.php:138
+msgid "Icon for iPad"
+msgstr ""
+
+#: ../admin/option/option.php:143
+msgid "Recommended: .PNG 152x152px size"
+msgstr ""
+
+#: ../admin/option/option.php:144
+msgid "Icon for iPad Retina"
+msgstr ""
+
+#: ../admin/option/option.php:151
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/option/option.php:157
+msgid "Guestbook"
+msgstr ""
+
+#: ../admin/option/option.php:164
+msgid "Guestbook Form"
+msgstr ""
+
+#: ../admin/option/option.php:170
+msgid "Field ID for Name"
+msgstr ""
+
+#: ../admin/option/option.php:184
+msgid "Field ID for Message"
+msgstr ""
+
+#: ../admin/option/option.php:198
+msgid "Appearance"
+msgstr ""
+
+#: ../admin/option/option.php:204 ../admin/option/option.php:264
+msgid "Color Scheme"
+msgstr ""
+
+#: ../admin/option/option.php:209
+msgid "Set Color Accent"
+msgstr ""
+
+#: ../admin/option/option.php:217
+msgid "Font Settings"
+msgstr ""
+
+#: ../admin/option/option.php:223
+msgid "Page Title"
+msgstr ""
+
+#: ../admin/option/option.php:230
+msgid "Enable Page Title Section in"
+msgstr ""
+
+#: ../admin/option/option.php:233
+msgid "Blog Index (default Posts page)"
+msgstr ""
+
+#: ../admin/option/option.php:237
+msgid "Search result"
+msgstr ""
+
+#: ../admin/option/option.php:241
+msgid "Blog Archive (category, tag, author, date archive)"
+msgstr ""
+
+#: ../admin/option/option.php:245
+msgid "Blog Single (can be overrided via single post editor's metabox)"
+msgstr ""
+
+#: ../admin/option/option.php:249
+msgid "Single Page (can be overrided via single page editor's metabox)"
+msgstr ""
+
+#: ../admin/option/option.php:259
+msgid "Default Style"
+msgstr ""
+
+#: ../admin/option/option.php:267
+#: ../widgets/class-ld-widget-photo-gallery.php:88
+#: ../widgets/class-ld-widget-post-type-event.php:116
+#: ../widgets/class-ld-widget-quote.php:113
+#: ../widgets/class-ld-widget-recent-posts.php:95
+#: ../widgets/class-ld-widget-rsvp.php:109
+#: ../widgets/class-ld-widget-text.php:97
+msgid "Black on White"
+msgstr ""
+
+#: ../admin/option/option.php:271
+#: ../widgets/class-ld-widget-photo-gallery.php:89
+#: ../widgets/class-ld-widget-post-type-event.php:117
+#: ../widgets/class-ld-widget-quote.php:114
+#: ../widgets/class-ld-widget-recent-posts.php:96
+#: ../widgets/class-ld-widget-rsvp.php:110
+#: ../widgets/class-ld-widget-text.php:98
+msgid "White on Black"
+msgstr ""
+
+#: ../admin/option/option.php:282
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/option/option.php:287
+msgid "Background Position"
+msgstr ""
+
+#: ../admin/option/option.php:290 ../widgets/class-ld-widget-quote.php:125
+#: ../widgets/class-ld-widget-rsvp.php:121
+#: ../widgets/class-ld-widget-text.php:111
+msgid "left top"
+msgstr ""
+
+#: ../admin/option/option.php:294 ../widgets/class-ld-widget-quote.php:126
+#: ../widgets/class-ld-widget-rsvp.php:122
+#: ../widgets/class-ld-widget-text.php:112
+msgid "center top"
+msgstr ""
+
+#: ../admin/option/option.php:298 ../widgets/class-ld-widget-quote.php:127
+#: ../widgets/class-ld-widget-rsvp.php:123
+#: ../widgets/class-ld-widget-text.php:113
+msgid "right top"
+msgstr ""
+
+#: ../admin/option/option.php:302 ../widgets/class-ld-widget-quote.php:129
+#: ../widgets/class-ld-widget-rsvp.php:125
+#: ../widgets/class-ld-widget-text.php:115
+msgid "left center"
+msgstr ""
+
+#: ../admin/option/option.php:306 ../widgets/class-ld-widget-quote.php:130
+#: ../widgets/class-ld-widget-rsvp.php:126
+#: ../widgets/class-ld-widget-text.php:116
+msgid "center center"
+msgstr ""
+
+#: ../admin/option/option.php:310 ../widgets/class-ld-widget-quote.php:131
+#: ../widgets/class-ld-widget-rsvp.php:127
+#: ../widgets/class-ld-widget-text.php:117
+msgid "right center"
+msgstr ""
+
+#: ../admin/option/option.php:314 ../widgets/class-ld-widget-quote.php:133
+#: ../widgets/class-ld-widget-rsvp.php:129
+#: ../widgets/class-ld-widget-text.php:119
+msgid "left bottom"
+msgstr ""
+
+#: ../admin/option/option.php:318 ../widgets/class-ld-widget-quote.php:134
+#: ../widgets/class-ld-widget-rsvp.php:130
+#: ../widgets/class-ld-widget-text.php:120
+msgid "center bottom"
+msgstr ""
+
+#: ../admin/option/option.php:322 ../widgets/class-ld-widget-quote.php:135
+#: ../widgets/class-ld-widget-rsvp.php:131
+#: ../widgets/class-ld-widget-text.php:121
+msgid "right bottom"
+msgstr ""
+
+#: ../admin/option/option.php:330
+msgid "Background Attachment"
+msgstr ""
+
+#: ../admin/option/option.php:333 ../widgets/class-ld-widget-quote.php:142
+#: ../widgets/class-ld-widget-rsvp.php:138
+#: ../widgets/class-ld-widget-text.php:128
+msgid "scroll"
+msgstr ""
+
+#: ../admin/option/option.php:337 ../widgets/class-ld-widget-quote.php:143
+#: ../widgets/class-ld-widget-rsvp.php:139
+#: ../widgets/class-ld-widget-text.php:129
+msgid "fixed"
+msgstr ""
+
+#: ../admin/option/option.php:345
+msgid "Background Repeat"
+msgstr ""
+
+#: ../admin/option/option.php:348 ../widgets/class-ld-widget-quote.php:150
+#: ../widgets/class-ld-widget-rsvp.php:146
+#: ../widgets/class-ld-widget-text.php:136
+msgid "no-repeat"
+msgstr ""
+
+#: ../admin/option/option.php:352 ../widgets/class-ld-widget-quote.php:151
+#: ../widgets/class-ld-widget-rsvp.php:147
+#: ../widgets/class-ld-widget-text.php:137
+msgid "repeat"
+msgstr ""
+
+#: ../admin/option/option.php:356 ../widgets/class-ld-widget-quote.php:152
+#: ../widgets/class-ld-widget-rsvp.php:148
+#: ../widgets/class-ld-widget-text.php:138
+msgid "repeat-x"
+msgstr ""
+
+#: ../admin/option/option.php:360 ../widgets/class-ld-widget-quote.php:153
+#: ../widgets/class-ld-widget-rsvp.php:149
+#: ../widgets/class-ld-widget-text.php:139
+msgid "repeat-y"
+msgstr ""
+
+#: ../admin/option/option.php:368
+msgid "Background Size"
+msgstr ""
+
+#: ../admin/option/option.php:371 ../widgets/class-ld-widget-quote.php:160
+#: ../widgets/class-ld-widget-rsvp.php:156
+#: ../widgets/class-ld-widget-text.php:146
+msgid "auto"
+msgstr ""
+
+#: ../admin/option/option.php:375 ../widgets/class-ld-widget-quote.php:161
+#: ../widgets/class-ld-widget-rsvp.php:157
+#: ../widgets/class-ld-widget-text.php:147
+msgid "contain"
+msgstr ""
+
+#: ../admin/option/option.php:379 ../widgets/class-ld-widget-quote.php:162
+#: ../widgets/class-ld-widget-rsvp.php:158
+#: ../widgets/class-ld-widget-text.php:148
+msgid "cover"
+msgstr ""
+
+#: ../admin/option/option.php:387
+msgid "Overlay"
+msgstr ""
+
+#: ../admin/option/option.php:390 ../widgets/class-ld-widget-quote.php:169
+#: ../widgets/class-ld-widget-rsvp.php:165
+#: ../widgets/class-ld-widget-text.php:155
+msgid "none"
+msgstr ""
+
+#: ../admin/option/option.php:394 ../widgets/class-ld-widget-quote.php:170
+#: ../widgets/class-ld-widget-rsvp.php:166
+#: ../widgets/class-ld-widget-text.php:156
+msgid "dotted-overlay"
+msgstr ""
+
+#: ../admin/option/option.php:398 ../widgets/class-ld-widget-quote.php:171
+#: ../widgets/class-ld-widget-rsvp.php:167
+#: ../widgets/class-ld-widget-text.php:157
+msgid "black-overlay"
+msgstr ""
+
+#: ../admin/option/option.php:407 ../widgets/class-ld-widget-quote.php:176
+#: ../widgets/class-ld-widget-rsvp.php:172
+#: ../widgets/class-ld-widget-text.php:162
+msgid "Enable Parallax"
+msgstr ""
+
+#: ../admin/option/option.php:415
+msgid "The Couple"
+msgstr ""
+
+#: ../admin/option/option.php:422
+msgid "Wedding Date"
+msgstr ""
+
+#: ../admin/option/option.php:431
+msgid "Party A (Left)"
+msgstr ""
+
+#: ../admin/option/option.php:436 ../admin/option/option.php:512
+msgid "Photo"
+msgstr ""
+
+#: ../admin/option/option.php:442 ../admin/option/option.php:518
+msgid "Full Name"
+msgstr ""
+
+#: ../admin/option/option.php:449 ../admin/option/option.php:525
+msgid "Nickname"
+msgstr ""
+
+#: ../admin/option/option.php:456 ../admin/option/option.php:532
+msgid "Gender"
+msgstr ""
+
+#: ../admin/option/option.php:460 ../admin/option/option.php:536
+msgid "Male"
+msgstr ""
+
+#: ../admin/option/option.php:464 ../admin/option/option.php:540
+msgid "Female"
+msgstr ""
+
+#: ../admin/option/option.php:474 ../admin/option/option.php:550
+msgid "About"
+msgstr ""
+
+#: ../admin/option/option.php:480 ../admin/option/option.php:556
+msgid "Facebook Account"
+msgstr ""
+
+#: ../admin/option/option.php:485 ../admin/option/option.php:561
+msgid "Twitter Account"
+msgstr ""
+
+#: ../admin/option/option.php:490 ../admin/option/option.php:566
+msgid "Google+ Account"
+msgstr ""
+
+#: ../admin/option/option.php:495 ../admin/option/option.php:571
+msgid "Instagram Account"
+msgstr ""
+
+#: ../admin/option/option.php:500 ../admin/option/option.php:576
+msgid "Email Account"
+msgstr ""
+
+#: ../admin/option/option.php:507
+msgid "Party B (Right)"
+msgstr ""
+
+#: ../admin/option/option.php:584
+msgid "Custom Scripts"
+msgstr ""
+
+#: ../admin/option/option.php:590
+msgid "Document Scripts"
+msgstr ""
+
+#: ../admin/option/option.php:595
+msgid "Head Script"
+msgstr ""
+
+#: ../admin/option/option.php:601
+msgid "Foot Script"
+msgstr ""
+
+#: ../admin/option/option.php:608 ../admin/option/option.php:613
+msgid "Custom CSS"
+msgstr ""
+
+#: ../comment.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: ../comment.php:22
+msgid "Author"
+msgstr ""
+
+#: ../comment.php:25
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: ../comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comment.php:41
+msgid "Reply"
+msgstr ""
+
+#: ../comment.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Previous Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Next Comments"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Enter your comment &hellip;"
+msgstr ""
+
+#: ../comments.php:68
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:71
+msgid "Post Reply"
+msgstr ""
+
+#: ../content.php:29
+msgid "Featured"
+msgstr ""
+
+#: ../content.php:33
+msgid "by "
+msgstr ""
+
+#: ../content.php:53
+msgid "previous"
+msgstr ""
+
+#: ../content.php:54
+msgid "next"
+msgstr ""
+
+#: ../functions-vafpress-framework.php:97
+#: ../functions-vafpress-framework.php:98
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions.php:33
+msgid "Heading Typography"
+msgstr ""
+
+#: ../functions.php:34
+msgid "Body Typography"
+msgstr ""
+
+#: ../functions.php:92
+msgid "Required Plugins"
+msgstr ""
+
+#: ../functions.php:230
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Header Navigation"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Add New Event"
+msgstr ""
+
+#: ../functions.php:266
+msgid "New Event"
+msgstr ""
+
+#: ../functions.php:267
+msgid "Edit Event"
+msgstr ""
+
+#: ../functions.php:268
+msgid "View Event"
+msgstr ""
+
+#: ../functions.php:269
+msgid "All Events"
+msgstr ""
+
+#: ../functions.php:270
+msgid "Search Events"
+msgstr ""
+
+#: ../functions.php:271
+msgid "Parent Events:"
+msgstr ""
+
+#: ../functions.php:272
+msgid "No events found."
+msgstr ""
+
+#: ../functions.php:273
+msgid "No events found in Trash."
+msgstr ""
+
+#: ../functions.php:366
+msgid "Search on this site"
+msgstr ""
+
+#: ../functions.php:368
+msgid "Search"
+msgstr ""
+
+#: ../header.php:99
+msgid "Blog"
+msgstr ""
+
+#: ../header.php:100
+msgid "Search Result"
+msgstr ""
+
+#: ../header.php:101 ../header.php:102 ../header.php:103
+#, php-format
+msgid "Blog in %s"
+msgstr ""
+
+#: ../header.php:104
+#, php-format
+msgid "Blog Posts by %s"
+msgstr ""
+
+#: ../header.php:105
+#, php-format
+msgid "Blog : %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:212
+#: ../includes/class-tgm-plugin-activation.php:1965
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:556
+#: ../includes/class-tgm-plugin-activation.php:2182
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1186
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1189
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1194
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1197
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1197
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1200
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1202
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1304
+#: ../includes/class-tgm-plugin-activation.php:1412
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1326
+#: ../includes/class-tgm-plugin-activation.php:1413
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1375
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1391
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1392
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1393
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1394
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1522
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1630
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1948
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1949
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1950
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1951
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1952
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1953
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1964
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2078
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2079
+#: ../includes/class-tgm-plugin-activation.php:2088
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2079
+#: ../includes/class-tgm-plugin-activation.php:2088
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2080
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2085
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2086
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2087
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2088
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2089
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2090
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../search.php:10
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../search.php:22
+#, php-format
+msgid "Showing results %s - %s of %s results found"
+msgstr ""
+
+#: ../search.php:44
+msgid "Sorry, no results found, please try another keyword"
+msgstr ""
+
+#: ../single-event.php:21
+msgid "Event Details"
+msgstr ""
+
+#: ../single-event.php:41
+msgid "Show in Map"
+msgstr ""
+
+#: ../vafpress-framework/bootstrap.php:88
+#: ../vafpress-framework/classes/option.php:364
+#: ../vafpress-framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: ../vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: ../vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: ../vafpress-framework/classes/metabox.php:564
+#: ../vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: ../vafpress-framework/classes/metabox.php:586
+#: ../vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:47
+#: ../vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:479
+#: ../vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: ../vafpress-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: ../vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: ../vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: ../vafpress-framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: ../vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: ../vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:4
+#: ../vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:27
+#: ../vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: ../vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: ../vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:69
+#: ../vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:70
+#: ../vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: ../vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:10
+msgid "Section: Google Maps (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:11
+msgid "Show location on Google Maps"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:25
+#: ../widgets/class-ld-google-maps.php:52
+msgid "Our Wedding Location"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:58
+#: ../widgets/class-ld-widget-photo-gallery.php:67
+#: ../widgets/class-ld-widget-post-type-event.php:109
+#: ../widgets/class-ld-widget-recent-posts.php:88
+#: ../widgets/class-ld-widget-rsvp.php:93
+msgid "Title:"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:63
+msgid "Location (Latitude , Longitude): e.g. -7.982425, 112.631036"
+msgstr ""
+
+#: ../widgets/class-ld-google-maps.php:68
+msgid "Height:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:10
+msgid "Section: Couple Summary and Countdown (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:11
+msgid "Couple Summary and Countdown"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:167
+msgid "Slideshow image(s) link:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:168
+msgid "Edit Slideshow"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:171
+msgid "Slideshow image(s) min-height:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:174
+msgid "Before Married Text:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:177
+msgid "After Married Text:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-couple-summary-and-countdown.php:180
+#: ../widgets/class-ld-widget-post-type-event.php:122
+msgid "Date Format:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:10
+msgid "Section: Photo Gallery (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:11
+msgid "Display Photo Gallery"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:25
+#: ../widgets/class-ld-widget-photo-gallery.php:59
+msgid "Photo Gallery"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:44
+msgid "View All Photos"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:72
+msgid "Gallery Images:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:73
+msgid "Edit gallery"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:78
+msgid "Order by:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:80
+msgid "Menu Order"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:81
+msgid "Random"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:86
+#: ../widgets/class-ld-widget-post-type-event.php:114
+#: ../widgets/class-ld-widget-quote.php:111
+#: ../widgets/class-ld-widget-recent-posts.php:93
+#: ../widgets/class-ld-widget-rsvp.php:107
+#: ../widgets/class-ld-widget-text.php:95
+msgid "Color scheme:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:90
+#: ../widgets/class-ld-widget-post-type-event.php:118
+#: ../widgets/class-ld-widget-quote.php:115
+#: ../widgets/class-ld-widget-recent-posts.php:97
+#: ../widgets/class-ld-widget-rsvp.php:111
+#: ../widgets/class-ld-widget-text.php:99
+msgid "Black on Light Gray"
+msgstr ""
+
+#: ../widgets/class-ld-widget-photo-gallery.php:95
+msgid "Gallery Page URL:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:10
+msgid "Section: Post Type Event (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:11
+msgid "Post Type Event"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:75
+msgid "View Details"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:103
+msgid "The Events"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:126
+#: ../widgets/class-ld-widget-recent-posts.php:107
+msgid "Number of column per row:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:128
+#: ../widgets/class-ld-widget-recent-posts.php:109
+msgid "2"
+msgstr ""
+
+#: ../widgets/class-ld-widget-post-type-event.php:129
+#: ../widgets/class-ld-widget-recent-posts.php:110
+msgid "3"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:10
+msgid "Section: Quote (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:11
+msgid "Quote"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:104
+msgid "Quote:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:107
+msgid "Cite:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:119
+#: ../widgets/class-ld-widget-rsvp.php:115
+#: ../widgets/class-ld-widget-text.php:104
+msgid "Background Image:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:123
+#: ../widgets/class-ld-widget-rsvp.php:119
+#: ../widgets/class-ld-widget-text.php:109
+msgid "Background Position:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:140
+#: ../widgets/class-ld-widget-rsvp.php:136
+#: ../widgets/class-ld-widget-text.php:126
+msgid "Background Attachment:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:148
+#: ../widgets/class-ld-widget-rsvp.php:144
+#: ../widgets/class-ld-widget-text.php:134
+msgid "Background Repeat:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:158
+#: ../widgets/class-ld-widget-rsvp.php:154
+#: ../widgets/class-ld-widget-text.php:144
+msgid "Background Size:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-quote.php:167
+#: ../widgets/class-ld-widget-rsvp.php:163
+#: ../widgets/class-ld-widget-text.php:153
+msgid "Overlay:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-recent-posts.php:10
+msgid "Section: Recent Posts (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-recent-posts.php:11
+msgid "Display Recent Blog Posts"
+msgstr ""
+
+#: ../widgets/class-ld-widget-recent-posts.php:25
+#: ../widgets/class-ld-widget-recent-posts.php:81
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: ../widgets/class-ld-widget-recent-posts.php:102
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-recent-posts.php:111
+msgid "4"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:10
+msgid "Section: RSVP (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:11
+msgid "RSVP"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:80
+msgid "Sign Your RSVP"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:98
+msgid "Form Position:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:100
+msgid "left"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:101
+msgid "right"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:102
+msgid "center"
+msgstr ""
+
+#: ../widgets/class-ld-widget-rsvp.php:176
+msgid "RSVP Form:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-text.php:10
+msgid "Section: Text (PB)"
+msgstr ""
+
+#: ../widgets/class-ld-widget-text.php:11
+msgid "Arbitrary text or HTML."
+msgstr ""
+
+#: ../widgets/class-ld-widget-text.php:81
+msgid "Widget Class:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-text.php:86
+msgid "Text / HTML:"
+msgstr ""
+
+#: ../widgets/class-ld-widget-text.php:91
+msgid "Automatically add paragraphs"
+msgstr ""

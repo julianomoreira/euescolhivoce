@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+		<!-- Theme Options -->
+		<key name="ld_option">
+			<key name="copyright_text" />
+			<key name="party_a_about" />
+			<key name="party_b_about" />
+		</key>
+	</admin-texts>
+</wpml-config>
