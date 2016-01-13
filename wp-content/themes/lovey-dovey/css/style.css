@@ -1161,7 +1161,7 @@ img {
 }
 .widget_ld_widget_section_recent_posts .blog-grid-post-content ,
 .widget_ld_widget_section_post_type_event .event-grid-excerpt {
-	font-size: 13px;
+	font-size: 14px;
 }
 .widget_ld_widget_section_recent_posts .blog-grid-post-date-and-author {
 	display: block;
@@ -1749,5 +1749,18 @@ body {
 .widget_ld_widget_section_quote .cite-text {
   /*margin-bottom: 0px;*/
 }
-<script type=”text/javascript” src=”wp-content/themes/lovey-dovey/js/jquery-countdown-pt.js”></script>
-<script type=”text/javascript” src="wp-content/themes/lovey-dovey/js/jquery.countdown-pt-BR.js”></script>
+.widget_ld_widget_section_recent_posts .blog-grid-post-title,
+.widget_ld_widget_section_post_type_event .event-grid-post-title {
+  font-size: 24px;
+}
+.dark-scheme {
+  background-color: #2A334A;
+}
+blockquote {
+	border-left-color: #67C3CE;
+}
+blockquote p {
+	font-family: Georgia, serif;
+	font-style: italic;
+	font: italic 20px/28px Georgia, serif;
+}

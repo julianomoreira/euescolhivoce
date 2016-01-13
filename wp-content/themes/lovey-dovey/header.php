@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="<?php bloginfo('charset'); ?>">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		
+
 		<meta name="description" content="<?php bloginfo('description'); ?>">
 		<meta name="author" content="<?php the_author(); ?>">
 
@@ -39,13 +39,13 @@
 		<?php echo ld_kses(ld_option('head_script')); ?>
 		<!-- END CUSTOM HEADER SCRIPTS -->
 
-		<?php wp_head(); ?>
+		<?php wp_head(); ?>		
 	</head>
 
 	<?php $preloader_class = ''; if ( ld_option( 'enable_preloader', 1 ) ) $preloader_class .= 'js-preloader'; ?>
 
 	<body <?php body_class( $preloader_class ); ?>>
-	
+
 		<div class="doc">
 			<header id="header" class="header">
 				<div class="logo heading">
@@ -65,8 +65,8 @@
 							<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php echo $logo; ?>" alt="logo"></a>
 						<?php } ?>
 					</div>
-				</div>		
-				
+				</div>
+
 				<div class="navbar-floating-anchor"></div>
 				<nav id="navbar" class="navbar navbar-default navbar-floating navbar-static-top" role="navigation">
 					<div class="container">
@@ -79,8 +79,8 @@
 							</button>
 						</div>
 						<div class="collapse navbar-collapse" id="navbar-collapse-header">
-							<?php wp_nav_menu( array( 
-								'theme_location' => 'header-navigation', 
+							<?php wp_nav_menu( array(
+								'theme_location' => 'header-navigation',
 								'menu_class'     => 'nav navbar-nav',
 								'depth'          => 0,
 								'fallback_cb'    => 'LD_Nav_Walker::fallback',
@@ -91,7 +91,7 @@
 				</nav>
 				<div class="navbar-spacer"></div>
 			</header>
-			
+
 			<?php
 				$pages_with_title_section = ld_option( 'pages_with_title_section' );
 
@@ -105,7 +105,7 @@
 				elseif ( is_single() )                         { $type = 'blog_single';      $title = get_the_title(); }
 				elseif ( is_page() )                           { $type = 'page_single';      $title = get_the_title(); }
 				else                                           { $type = ''; }
-			
+
 				$title_section_background_image = ld_option( 'title_section_background_image' );
 				$title_section_background_repeat = ld_option( 'title_section_background_repeat' );
 				$title_section_background_position = ld_option( 'title_section_background_position' );
@@ -135,7 +135,7 @@
 
 				if ( $show_page_title ) : ?>
 				<section id="title" class="title-section section <?php echo ld_option( 'title_section_color_scheme', 'light' ); ?>-scheme">
-					
+
 					<?php if ( ! empty( $title_section_background_image ) ) : ?>
 						<div class="section-background <?php echo $enable_parallax ? 'parallax-background' : ''; ?> <?php if ($title_section_overlay != 'none') { echo $title_section_overlay; } ?>" style="<?php echo $style; ?>"></div>
 					<?php endif; ?>

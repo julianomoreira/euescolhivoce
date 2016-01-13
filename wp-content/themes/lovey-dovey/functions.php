@@ -177,6 +177,7 @@ function ld_theme_scripts()
 	wp_register_script( 'jquery-plugin', LD_JS. 'jquery.plugin.min.js', array( 'jquery' ) );
 	wp_register_script( 'jquery-countdown', LD_JS. 'jquery.countdown.min.js', array( 'jquery', 'jquery-plugin' ) );
 	wp_register_script( 'jquery-parallax', LD_JS . 'jquery.parallax.min.js', array( 'jquery' ), '1.1.3' );
+	wp_register_script( 'jquery-countdown-br', LD_JS . 'jquery.countdown.pt-BR.js', array( 'jquery' ), '2.0.0' );
 	wp_register_script( 'jquery-magnific-popup', LD_JS . 'jquery.magnific-popup.min.js', array( 'jquery' ), '0.9.9' );
 	wp_register_script( 'jquery-justifiedgallery', LD_JS . 'jquery.justifiedgallery.min.js', array( 'jquery', 'jquery-magnific-popup' ), '3.2.0' );
 	wp_register_script( 'jquery-waypoints', LD_JS . 'waypoints.min.js', array(), '2.0.4' );
@@ -196,6 +197,7 @@ function ld_theme_scripts()
 		'jquery-waypoints',
 		'jquery-gmap3',
 		'isotope',
+		'jquery-countdown-br',
 	), $theme_data->get( 'Version' ) );
 	wp_enqueue_script('ld-script');
 

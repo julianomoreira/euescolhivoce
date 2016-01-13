@@ -6,7 +6,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 	*/
 	public function __construct () {
 		parent::__construct (
-			'ld_widget_section_post_type_event', 
+			'ld_widget_section_post_type_event',
 			__('Section: Post Type Event (PB)' , 'lovey_dovey'),
 			array('description' => __('Post Type Event', 'lovey_dovey'),) //args
 		);
@@ -26,7 +26,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 		echo $args['before_widget'];
 		?>
 		<div class="section <?php echo $color_scheme; ?>-scheme">
-			<div class="container"> 
+			<div class="container">
 				<div class="title"><?php echo $instance['title']; ?></div>
 				<div class="row">
 					<?php
@@ -48,7 +48,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 									<?php endif; ?>
 
 									<h4 class="event-grid-post-title heading"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h4>
-								
+
 									<div class="event-grid-excerpt"><?php the_excerpt(); ?></div>
 
 									<div class="event-meta">
@@ -56,7 +56,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 										$event_date = strtotime(ld_event_option('event_date'));
 										if (! empty($event_date)) {
 											echo '<div class="event-meta-date"><i class="li_calendar"></i>'. date_i18n($instance['dateformat'],$event_date).'</div>';
-										} 
+										}
 										$event_time = ld_event_option('event_time');
 										if (! empty($event_time)) {
 											echo '<div class="event-meta-time"><i class="li_clock"></i>'. $event_time .'</div>';
@@ -72,11 +72,11 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 										?>
 									</div>
 
-									<div class="event-detail-link"><a href="<?php echo get_permalink(); ?>" class="button heading"><?php _e('View Details', 'lovey_dovey'); ?></a></div>
+									<div class="event-detail-link"><a href="<?php echo get_permalink(); ?>" class="button heading"><?php _e('Ver Mais Detalhes', 'lovey_dovey'); ?></a></div>
 
 								</div>
 							</div>
-							
+
 							<?php
 						}
 						echo '</div>';
@@ -106,7 +106,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 		$column = isset( $instance['column']) ? absint( $instance['column'] ) : 2;
 	?>
 		<p>
-		<label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:', 'lovey_dovey' ); ?></label> 
+		<label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:', 'lovey_dovey' ); ?></label>
 		<input class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>">
 		</p>
 
@@ -119,7 +119,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 			</select>
 		</p>
 
-		<p><label for="<?php echo $this->get_field_id( 'dateformat' ); ?>"><?php _e( 'Date Format:', 'lovey_dovey' ); ?></label> 
+		<p><label for="<?php echo $this->get_field_id( 'dateformat' ); ?>"><?php _e( 'Date Format:', 'lovey_dovey' ); ?></label>
 		<input class="widefat" id="<?php echo $this->get_field_id( 'dateformat' ); ?>" name="<?php echo $this->get_field_name( 'dateformat' ); ?>" type="text" value="<?php echo esc_attr( $dateformat ); ?>"></p>
 
 		<p>
@@ -130,7 +130,7 @@ class LD_Widget_Post_Type_Event extends WP_Widget {
 			</select>
 		</p>
 
-	<?php	
+	<?php
 	}
 
 	/**
